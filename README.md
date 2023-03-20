@@ -1,5 +1,5 @@
 # Math Trainer
-This is an extremely basic math game using vanilla JavaScript.
+This is an extremely basic math game using vanilla JavaScript file.
 
 ## Notes
 This app shows a random math equation to users by calculating two random integers in the range (0, 100) and assigning it one of the four basic operators:
